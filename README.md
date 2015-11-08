@@ -1,2 +1,2 @@
 # FunWithPythonScripting
-Scripts discuss during the pre-Techtatva Turing workshop.
+Scripts discussed during the pre-Techtatva Turing workshop.
