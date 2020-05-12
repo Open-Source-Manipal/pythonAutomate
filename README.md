@@ -1,2 +1,3 @@
-# FunWithPythonScripting
-Scripts discussed during the pre-Techtatva Turing workshop.
+# Automating some of the boring stuff using Python and Ruby.
+
+
